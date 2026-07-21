@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "feed-data-plugin@genius": {
+      "updates": [
+        {
+          "version": "2.2.0",
+          "update_link": "https://github.com/NinaTaga/feed-data-plugin-updates/releases/download/v2.2.1/feed-data-plugin-2.2.0.xpi"
+        }
+      ]
+    }
+  }
+}
